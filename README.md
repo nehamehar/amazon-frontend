@@ -1,3 +1,2 @@
 # Amazon-website-
-
-Hi here is the Amazon Homepage using CSS and HTMl.
+A simple Amazon Homepage Website project using CSS and HTML.
