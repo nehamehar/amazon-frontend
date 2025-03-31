@@ -5,7 +5,7 @@
 }
 
 .navbar{
-    height: 60px;
+    height: 70px;
     background-color: #0f1111;
     color: #ffffff;
     display: flex;/* if we have many div and we want that every icon of navbar will be one line use this*/
@@ -142,7 +142,7 @@ span{
 
 /*hero section*/
 .hero-section{
-    background-image: url(3000.jpg);
+    background-image: url('Resources/BgPhoto.jpg');
     height: 450px;
     background-size: cover;
 }
@@ -225,9 +225,9 @@ ul a{
 
 
 .logo{ 
-    background-image: url("amazon_logo.png");
+    background-image: url("https://github.com/sansita0704/amazon-clone/blob/main/Resources/amazon_logo.png?raw=true");
     background-size: cover;
-    height: 50px;
+    height: 60px;
     width: 100px;
 }
 
