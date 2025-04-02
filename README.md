@@ -1,2 +1,3 @@
-# Amazon-website-
-A simple project of Amazon Homepage Website using CSS and HTML .
+# Amazon Homepage Frontend
+
+A simple project of amazon homepage website using HTML & CSS.
