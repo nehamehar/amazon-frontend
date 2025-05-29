@@ -267,6 +267,9 @@ ul a{
 .footer-text {
     color:white
 }
+.text-decoration-none{
+    text-decoration: none;
+}
 
 .github-logo {
     font-size: 3rem;
